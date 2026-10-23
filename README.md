@@ -5,7 +5,7 @@
 
 **Privacy-hardened and asynchronous scripting multiplayer client for Star Wars Jedi Knight: Jedi Academy.**
 
-**OpenJK Enhanced** is the open-source baseline edition of the [OpenJK-ESL](https://openjk-esl.com/) client. Built on top of upstream OpenJK, it strips away competitive exploit payloads to release the core architectural improvements: privacy-first anti-tracking defaults, Twofish-128 E2EE in-game chat, and a non-blocking asynchronous scripting engine.
+**OpenJK Enhanced** is the open-source baseline edition of the [OpenJK-ESL](https://openjk-esl.com/) client (built on top of OpenJK). It strips away most "supercharged" features to release the core architectural improvements: privacy-first anti-tracking defaults, Twofish-128 E2EE in-game chat, and a non-blocking asynchronous scripting engine.
 
 - **License:** GPLv2 / Public Domain
 - **Project's Website:** [OpenJK Enhanced](https://openjk-enhanced.org)
